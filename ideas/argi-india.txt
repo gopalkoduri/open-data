@@ -1,0 +1,6 @@
+Look for correlation between these data:
+
+1. Food imports by commodity
+2. Food produce by commodity
+3. West pacific surface ocean temperatures (El Nino)
+4. South-west monsoon rainfall
